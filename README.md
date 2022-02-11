@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chintan0513
 - 👀 I’m interested in JS, HTML5, CSS and SQL.
-- 🌱 I’m currently learning JAVASCRIPT.
+- 🌱 I’m currently learning REACT.
 - 💞️ I’m looking to collaborate on frontend project.
 
 <!---- 📫 How to reach me 
