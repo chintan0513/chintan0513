@@ -10,4 +10,4 @@
 chintan0513/chintan0513 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Chintan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chintan0513)](https://github.com/chintan0513/github-readme-stats)
+![Chintan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chintan0513&show_icons=true&theme=tokyonight)
