@@ -2,8 +2,8 @@
 - 👀 I’m interested in JS, HTML5, CSS and SQL.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about Full Stack Web Dev
-- ⚡ Fun fact: I love to play Cricket and Cycling
+- 🥅 2022 Goal: Learn more about Full Stack Web Dev
+- ⚡ Fun fact: I'm fond of Cricket and Cycling
 <!---- 📫 How to reach me 
        
 
