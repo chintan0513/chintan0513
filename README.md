@@ -7,7 +7,7 @@
  - 🥅 2022 Goal: Learn more about Full Stack Web Dev and Cloud ☁️ 
  - ⚡ Fun fact: I'm fond of Cricket and Cycling 
  
- - 📫 How to reach me!
+ <!-- - 📫 How to reach me! -->
      
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=chintan0513&label=Profile%20views&color=0e75b6&style=flat" alt="chintan0513" /> </p>
      
