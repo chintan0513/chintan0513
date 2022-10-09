@@ -17,3 +17,7 @@
   <img padding-right="0px" src="https://github-readme-stats-beryl.vercel.app/api?username=chintan0513&show_icons=true&theme=react" alt="chintan0513" width="49%"/>
   <img padding-right="0px" src="https://github-readme-streak-stats.herokuapp.com/?user=chintan0513&theme=react" alt="chintan0513" width="49%"/>
 </div>
+
+### ⚡ Holopin board
+
+<img src="https://holopin.io/api/user/board?user=chintan13&theme=react" width="100%"/>
