@@ -2,10 +2,9 @@
  
  - 👋 Hi, I’m Chintan Tripathi 
  - 👀 I’m interested in REACT, Cloud and DATA SCIENCE
- - 🌱 I’m currently learning everything 🤣 
+ - 🌱 I’m currently learning Cloud, System Programming 📚 
  - 👯 I’m looking to collaborate with other content creators 
- - 🥅 2023 Goal: Learn more about Full Stack Web Dev and Cloud ☁️ 
- - ⚡ Fun fact: I'm fond of Cricket and Cycling 
+ - 🥅 2024 Goal: Learn more about Full Stack Web Dev and Cloud ☁️  
  
 ## 📫 How to reach me! 
 <p align="left">
