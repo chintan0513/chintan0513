@@ -1,7 +1,7 @@
 ## 📝 About Me
  
  - 👋 Hi, I’m Chintan Tripathi 
- - 👀 I’m interested in REACT, Cloud and DATA SCIENCE
+ - 👀 I’m interested in Web Development, Data Analytics
  - 🌱 I’m currently learning Cloud, System Programming 📚 
  - 👯 I’m looking to collaborate with other content creators 
  - 🥅 2024 Goal: Learn more about Full Stack Web Dev and Cloud ☁️  
