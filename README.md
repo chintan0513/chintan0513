@@ -1,15 +1,83 @@
-## 📝 About Me
- 
- - 👋 Hi, I’m Chintan Tripathi 
- - 👀 I’m interested in Web Development, Data Analytics
- - 🌱 I’m currently learning Cloud, System Programming 📚 
- - 👯 I’m looking to collaborate with other content creators 
- - 🥅 2024 Goal: Learn more about Full Stack Web Dev and Cloud ☁️  
- 
-## 📫 How to reach me! 
-<p align="left">
-   <a href="https://www.linkedin.com/in/chintan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
+# 👋 Hi there, I'm Chintan Tripathi
+
+🎓 **MAC @ University of Windsor**  
+🔍 Actively seeking full-time opportunities | **Full Stack Developer** | **Data Engineer**  
+🛠️ MERN | Python | AWS | Tableau | Trino | Kafka | Spark | GitHub Actions  
+📍 North York, Ontario, Canada
+
+---
+
+## 🚀 About Me
+
+I'm a passionate Full-Stack Engineer with a strong foundation in the **MERN Stack** and cloud-native development. I recently completed a Data Analyst Co-op at **RBC**, where I:
+
+- Automated data quality checks via scheduled **cron jobs**
+- Led **Tableau-Trino integration** for live data access
+- Built robust **REST API** automation tools
+- Explored scalable cloud solutions with **Snowflake, Databricks, and AWS SageMaker**
+- Worked extensively with **Python, Trino, DBeaver**, and data pipelines
+
+I'm also AWS certified:
+- 🏅 AWS Certified Cloud Practitioner
+- 🏅 AWS Certified Developer Associate
+
+I enjoy building scalable, performant systems and have built projects such as a **real-time stock price app** and an **LLM-based Q&A engine** for financial datasets.
+
+---
+
+## 💼 Experience Highlights
+
+### 🏦 RBC — *Data Analyst Intern*
+> *Sep 2024 – Apr 2025 | Toronto, ON*
+- Automated exception queries and built retry mechanisms for Tableau refreshes
+- Enhanced data querying pipelines using **Trino, Python, DBeaver**
+- Led live-data integrations and researched **LDAP alternatives for Zeppelin**
+
+### 🌐 Evrig Solutions — *Software Developer*
+> *Nov 2022 – Jun 2023 | Ahmedabad, India*
+- Developed a MERN-based home appliance platform
+- Used **React, Vue, Tailwind CSS** for responsive UIs
+- Improved response times and reduced unauthorized access via **JWT**
+
+### 🛠️ Other Roles
+- Accenture Virtual Internship (Cloud & IAM)
+- DevTown Intern (7+ full-stack projects)
+- Trainity (Data Analyst Intern using SQL, R, Tableau)
+
+---
+
+## 🧰 Skills
+
+**Languages & Frameworks:**  
+`JavaScript`, `Python`, `Node.js`, `React`, `Vue.js`, `Tailwind CSS`
+
+**Data & Cloud:**  
+`AWS`, `Trino`, `Snowflake`, `Databricks`, `Spark`, `Tableau`, `Power BI`
+
+**Tools & Platforms:**  
+`GitHub Actions`, `Kafka`, `MongoDB`, `Express`, `Zeppelin`, `DBeaver`
+
+---
+
+## 📜 Certifications
+- ✅ JavaScript
+- ✅ AWS Cloud Practitioner
+- ✅ AWS Developer Associate
+- ✅ HTML5, CSS3, GitHub
+- ✅ Foundations of Project Management
+
+---
+
+## 🌐 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chintan13)
+- 🌍 [Portfolio](https://chintantripathiportfolio.vercel.app)
+- 📧 chintantripathi1310@gmail.com
+
+---
+
+*“Driven by curiosity. Powered by code. Grounded in clean, scalable design.”*
+
 
 ## 📊 GitHub Stats
  
@@ -33,6 +101,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chintan0513&label=Profile%20views&color=0e75b6&style=flat" alt="chintan0513" /> </p>
 
 
-## 💰You can help me by Donating
-
-[![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)](https://buymeacoffee.com/chintantri10)
